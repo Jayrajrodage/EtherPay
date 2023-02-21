@@ -1,10 +1,10 @@
-**#EtherPay** 
+# EtherPay 
 
-**Description**
+## Description
 
 EtherPay is a platform where you can safely send and store your crypto (ETH) with the help of MetaMask. You can save recipient addresses and view your recent transactions.
 
-**Features**
+ ## Features
 
 Safe and secure transactions with the help of MetaMask
 
@@ -14,7 +14,7 @@ View your recent transactions
 
 lock your crypto(ETH) for safekeeping, and withdraw whenever you need.
 
-**Installation**
+## Installation
 
 Clone the repository
 
@@ -22,7 +22,7 @@ Install dependencies with **npm install**
 
 Run the app with **npm start**
 
-**Usage**
+## Usage
 
 Connect your MetaMask wallet
 
@@ -32,18 +32,18 @@ Click the "Send" button to initiate the transaction
 
 You can view your recent transactions by clicking the "Transaction History" button
 
-**Technologies Used**
+## Technologies Used
 
-solidity
+1.solidity
 
-Ether.js
+2.Ether.js
 
-Tailwindcss
+3.Tailwindcss
 
-Remix.IDE
+4.Remix.IDE
 
-React
+5.React
 
-Web3
+6.Web3
 
-MetaMask
+7.MetaMask
