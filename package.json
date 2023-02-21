@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "create-react-app": "^5.0.1",
+    "ethers": "^5.7.2",
+    "react-loader-spinner": "^5.3.4"
+  }
+}
